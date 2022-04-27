@@ -140,6 +140,8 @@ color: var(--accent-text-color);
 
 .current-link{
 position: relative;
+
+color: var(--accent-text-color)
 }
 
 .current-link:visited {

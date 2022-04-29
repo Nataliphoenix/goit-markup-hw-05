@@ -293,6 +293,7 @@ height: 100%;
 z-index: 99;
 
 background-color: var(--overlay-hero-modal);
+transition: transform var(--transition-durattion) var(--timing-function);
 }
 
 .backdrop.is-hidden{
